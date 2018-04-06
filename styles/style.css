@@ -1,0 +1,17 @@
+
+body {
+  border: 2px solid blue;
+  height: 90vh;
+  width: 90vw;
+}
+
+.circle {
+  background-color: red;
+  border: 4px solid blue;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+}
